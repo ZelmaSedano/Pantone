@@ -1,6 +1,6 @@
 # A Decade of Pantone
 
-<img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/PantoneGIF.gif" width="500px">
+<img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/PantoneGIF.gif" width="300px">
 <br>
 <br>
 <br>
