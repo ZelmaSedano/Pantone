@@ -30,7 +30,11 @@ More information and details can be found on:
 <a href="https://trello.com/b/UQQEMjhN/a-decade-of-pantone-app">Trello</a>
 
 Data Model:
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/Schema.png" width="500px">
 <br>
 User Flow:
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/User Flow.png" width="500px">
