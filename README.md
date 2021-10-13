@@ -1,5 +1,7 @@
 # A Decade of Pantone
 
+<img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/Mockup.png" width="500px">
+
 Overview
 <hr>
 <br>
