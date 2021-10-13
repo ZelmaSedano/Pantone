@@ -37,7 +37,7 @@ Style Guide:
 Data Model:
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/Schema.png" width="300px">
+<img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/Schema.png" width="500px">
 <br>
 User Flow:
 <br>
