@@ -1,6 +1,6 @@
 # A Decade of Pantone
 
-<img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/Mockup.png" width="500px">
+<img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/PantoneGIF.gif" width="500px">
 
 <h3>Overview</h3>
 <hr>
@@ -33,6 +33,11 @@ Style Guide:
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/Style_Guide.png" width="300px">
+<br>
+Mockup:
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/smgraywood/Pantone/master/Mockup.png" width="500px">
 <br>
 Data Model:
 <br>
